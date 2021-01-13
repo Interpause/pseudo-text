@@ -25,6 +25,6 @@ I was attempting a content-based approach for fake-news detection, using an algo
 
 ## Taken from presentation slides
 
-![img/overview.jpg]
+![](img/overview.jpg)
 
-![img/extractor.jpg]
+![](img/extractor.jpg)
